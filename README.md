@@ -1,2 +1,13 @@
-# react-redux-counter
-A simple react counter for understanding how redux works with react
+# react-redux counter
+
+> A simple counter built using react-redux.
+
+## Demo
+
+
+## To run the project:
+
+1. Clone this repo
+2. Run `npm install`
+3. Run `npm start`
+
