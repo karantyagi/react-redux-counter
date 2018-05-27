@@ -3,6 +3,8 @@
 **/desktop.ini
 desktop.ini
 
+/.idea
+
 # dependencies
 /node_modules
 
