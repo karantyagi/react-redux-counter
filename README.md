@@ -1,6 +1,10 @@
 # react-redux counter
 
-> A simple counter built using react-redux.
+> A simple React counter built using Redux.
+
+## Learning Objective
+
+- [X] Understanding how Redux works with react.
 
 ## Demo
 
