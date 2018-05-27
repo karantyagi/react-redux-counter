@@ -7,7 +7,7 @@
 - [X] Understanding how Redux works with react.
 
 ## Demo
-
+http://kt-react-redux-counter.s3-website-us-east-1.amazonaws.com
 
 ## To run the project:
 
